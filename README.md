@@ -1,2 +1,2 @@
-# PBI-Projects
+# PBI Projects
 Power BI Projects
